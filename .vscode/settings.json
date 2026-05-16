@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": "/Users/namantenguria/auditiq/venv/bin/python",
+    "python.analysis.extraPaths": [
+        "/Users/namantenguria/auditiq"
+    ],
+    "python.terminal.activateEnvironment": true
+}

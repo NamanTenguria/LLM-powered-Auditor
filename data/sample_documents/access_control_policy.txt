@@ -1,0 +1,13 @@
+Access Control Policy
+
+All terminated employees must have system access removed within 24 hours of termination.
+
+Privileged access must be reviewed every 30 days.
+
+Any access exception must be approved by a manager and documented.
+
+Access review evidence must be retained for audit purposes.
+
+System administrators must not approve their own access requests.
+
+Any user with admin privileges must have a valid business justification.

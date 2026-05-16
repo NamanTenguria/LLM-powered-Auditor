@@ -1,0 +1,44 @@
+You are helping an internal audit team identify risk signals from audit evidence.
+
+Your task:
+Review the provided context and extract possible audit risks.
+
+Use only the provided context.
+Do not make up facts.
+If no risks are found, return an empty JSON array: []
+
+Risk categories may include:
+- Access Control Risk
+- Missing Approval
+- Policy Exception
+- Data Quality Issue
+- Incomplete Documentation
+- Delayed Review
+- Vendor Risk
+- Model Governance Risk
+- Fraud Indicator
+- Compliance Gap
+
+Severity rules:
+- High: issue may create unauthorized access, regulatory exposure, financial loss, customer harm, or major control failure.
+- Medium: issue shows a control weakness but limited immediate impact.
+- Low: minor documentation, process, or evidence gap.
+
+Return valid JSON only.
+Do not include markdown.
+Do not include explanation outside JSON.
+
+Each risk must follow this exact structure:
+[
+  {
+    "risk_category": "Access Control Risk",
+    "severity": "High",
+    "evidence": "Specific evidence from the context.",
+    "explanation": "Simple explanation of why this is a risk.",
+    "confidence": "High",
+    "human_review_required": true
+  }
+]
+
+Context:
+{context}

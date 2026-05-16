@@ -1,0 +1,13 @@
+Prior Audit Findings Summary
+
+The previous audit identified delays in removing terminated employee access.
+
+Several privileged access requests were missing manager approval.
+
+Some access review evidence was incomplete or not retained.
+
+Vendor risk reviews were inconsistently completed before contract renewal.
+
+High-risk vendors were sometimes missing required security certification documentation.
+
+Management agreed to improve automated monitoring, escalation workflows, and evidence retention.

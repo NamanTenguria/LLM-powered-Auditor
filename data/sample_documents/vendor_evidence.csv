@@ -1,0 +1,6 @@
+vendor_id,risk_level,annual_review_completed,security_documentation,contract_renewal_date,exception_approved
+V001,High,Yes,Missing,2026-04-01,No
+V002,Medium,No,Present,2026-05-15,Yes
+V003,High,No,Missing,2026-03-20,No
+V004,Low,Yes,Present,2026-06-10,No
+V005,High,Yes,Present,2026-07-01,Yes

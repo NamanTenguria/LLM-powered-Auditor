@@ -1,0 +1,11 @@
+Vendor Risk Management Policy
+
+All vendors must complete an annual risk assessment.
+
+High-risk vendors must provide security certification documentation.
+
+Missing security documentation must be escalated to the risk committee.
+
+Vendor reviews must be completed before contract renewal.
+
+Any exception to vendor review requirements must be approved by the vendor risk manager.

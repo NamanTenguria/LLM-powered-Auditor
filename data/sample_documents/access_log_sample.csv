@@ -1,0 +1,7 @@
+user_id,role,termination_date,access_removed_date,manager_approval,business_justification
+U101,Analyst,2026-02-01,2026-02-10,Yes,Valid project access
+U102,Admin,2026-02-03,2026-02-04,No,Emergency access
+U103,Analyst,2026-02-05,2026-02-05,Yes,Customer support access
+U104,Admin,2026-02-07,2026-03-01,No,
+U105,Admin,,2026-02-12,Yes,
+U106,Analyst,2026-02-15,2026-02-16,Yes,Temporary reporting access
