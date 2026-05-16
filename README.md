@@ -67,4 +67,3 @@ streamlit run frontend/streamlit_app.py
 *The UI will open in your browser at `http://localhost:8501`.*
 
 
-**Disclaimer**: *AuditIQ is designed to assist auditors, not replace professional judgment. All extracted risks and generated findings should be validated against source documents.*
