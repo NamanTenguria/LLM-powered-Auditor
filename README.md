@@ -66,16 +66,5 @@ streamlit run frontend/streamlit_app.py
 ```
 *The UI will open in your browser at `http://localhost:8501`.*
 
-## 💡 Recommended Demo Workflow
 
-If you want to test the end-to-end capabilities:
-1. Navigate to the **Admin** tab and click **Reset Everything** for a clean slate.
-2. Go to **Upload Documents** and upload your sample audit files.
-3. Head to **Ask AuditIQ** and ask a question about the uploaded evidence.
-4. Click **Run Risk Review** in the Risk Review tab to automatically extract risks.
-5. Go to the **Finding Generator**, select one of the newly extracted risks, and generate a finding.
-6. Check out your **Dashboard** metrics.
-7. Go to **Export Report** and download your final markdown summary.
-
----
 **Disclaimer**: *AuditIQ is designed to assist auditors, not replace professional judgment. All extracted risks and generated findings should be validated against source documents.*
